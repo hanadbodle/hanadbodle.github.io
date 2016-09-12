@@ -1,0 +1,92 @@
+body {
+
+   background-color: tomato;
+    padding: 0px;
+    margin: 0px;
+    
+
+}
+
+
+
+p {
+    text-align: left;
+    color: black;
+}
+ 
+div img {
+    float: right; 
+    background-color: grey;
+    width: 200px;
+    border: 25px red;
+    padding: 25px;
+    margin: 25px;
+}
+
+ 
+
+}
+
+div.pull-left img{
+   float:left;
+   margin-left : auto;
+   margin-right: auto;
+}
+
+
+    {background: }
+
+
+h2,h4{color: red;
+      text-align: left; 
+}
+
+h1,h3{color: red;
+      text-align: left; 
+}
+
+
+
+li.{text-align: left;
+    color: red;
+}
+
+div.containerTop {  
+    width: 1024px;
+    height: 3000px ;
+    margin:0px auto;
+    background-color: linen;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    border-bottom: 1px black solid;
+
+}   
+
+
+div.pictureRight {
+    background: url("davinci.JPG") no-repeat;
+    height:250px;
+    width:250px;
+    border:solid 1px blue;
+    float: left;
+    background-size: 302px 302px;
+}
+
+
+div.pictureRight {
+    background: url("IMG_0068.JPG") no-repeat;
+    height:300px;
+    width:300px;
+    border:solid 1px green;
+    background-size: 302px 302px;
+    float: right;
+
+}
+
+div.content{    
+    float:left ;
+    width: 420px;
+
+
+}
+
